@@ -1,0 +1,52 @@
+body {
+	background-color: #8d9693;
+	color: #0d1a08;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#main-header {
+	
+	background-image: url('head.jpg');
+	color: #fff
+}
+#links {
+	background-color: #517268;
+
+}
+#links a {
+	color: #57062c;
+	padding-right: 17px;
+}
+#links li {
+	display: inline;
+
+}
+#view-port{
+	background-image: url('view.png');
+	background-position:center;
+	text-align: center;
+	
+}
+#main-footer {
+	
+	text-align: center;
+	padding: 15px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
